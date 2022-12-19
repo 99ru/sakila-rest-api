@@ -7,7 +7,8 @@
             ]
         },
         "module": "es2022",
-        "target": "ES2021"
+        "target": "ES2021",
+        "moduleResolution":"node",
     },
     "exclude": [
         "node_modules"

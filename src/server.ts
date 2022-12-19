@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import actorRouter from './routes/actorRouter.js';
+import actorRouter from './routes/actorRouter';
 
 dotenv.config();
 
